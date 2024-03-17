@@ -1,12 +1,18 @@
 {
   "name": "hsl_rgb_converter",
+  "main": "index.js",
+  "filename": "index.js"
   "version": "99.99.99",
   "description": "POC package",
-  "main": "index.js",
+  "homepage": "https://github.com/kayellpeee/hsl_rgb_converter"
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "preinstall": "node index.js"
   },
   "author": "Karal",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kayellpeee/hsl_rgb_converte"
+  }
 }
